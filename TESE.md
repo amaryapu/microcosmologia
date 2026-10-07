@@ -173,6 +173,29 @@ copia a restrição, erra quando copia o desenho.**
 
 ---
 
+## VI-bis · `R45` — o nome da terceira categoria
+
+**`[REGRA]`** Este documento afirmava que **a mesma forma em escalas que não se tocam é
+restrição, e não milagre** — **e estava certo.** **Mas o acervo vinha chamando os casos de
+«coincidência», e essa é a categoria errada.**
+
+**`[CÁLCULO]`** · **São três coisas distintas, e só uma é falsificável:**
+
+| | | |
+|---|---|---|
+| **coincidência** | **sem causa comum e sem restrição comum** | **não se prevê, e não conta como evidência** |
+| **confluência** | **duas correntes correndo juntas e permanecendo distinguíveis** | **o Encontro das Águas** |
+| ## **convergência por restrição comum** | ## **derivações independentes forçadas pela mesma restrição** | ## **o raio, a árvore e o pulmão · Poincaré e Arrow · Turing e Mandelbrot** |
+
+> # **`[CÁLCULO]`** **E a diferença é operacional, não semântica: `coincidência não se pode prever; convergência por restrição, sim`.**
+>
+> ## **Se a restrição for a mesma, **espera-se a forma** — e se ela não aparecer, a hipótese cai.**
+> # **É isso que torna a terceira categoria falsificável, e é por isso que ela conta e as outras duas não contam da mesma maneira.**
+
+> ## **`[REGRA]`** **`R45`** — a classificação fica corrigida em todo o acervo. **Dois autores, dois sistemas ou duas disciplinas que enfrentam a mesma restrição e produzem a mesma forma `não coincidiram: convergiram`.**
+
+---
+
 ## VII · O que isto exige de uma AGI
 
 > | | |
